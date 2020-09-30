@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\COMBA VR 2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\COMBA VR 2\\.nuget\\packages"
+    ]
+  }
+}
